@@ -1,5 +1,5 @@
 format: jb-book
-root: file_to_be_added_to_toc.md
+root: ProjectLola
 
 parts:
   - caption: Contents
