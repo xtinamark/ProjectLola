@@ -3,11 +3,11 @@ root: ProjectLola
 
 parts:
   - caption: Contents
-    chapters:
+    chapters: 
     - file: some_content/overview.md
       sections: 
       - file: some_content/text_and_code.ipynb
-    - file: exercises/exercises
+    - file: file_to_be_added_to_toc.md
       sections:
       - file: exercises/001.md
       - file: exercises/002.md
