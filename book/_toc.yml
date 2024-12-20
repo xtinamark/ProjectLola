@@ -4,8 +4,7 @@ root: ProjectLola
 parts:
   - caption: Contents
     chapters: 
-    - file: some_content/overview.md
-    file_to_be_added_to_toc.md
+    - file:  file_to_be_added_to_toc.md
       sections: 
       - file: some_content/text_and_code.ipynb
       sections:
