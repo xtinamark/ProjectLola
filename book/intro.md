@@ -1,5 +1,5 @@
 (intro)= 
-## Project Lola
+# Project Lola
 
 _This is the first page the student will see when opening the url._
 
