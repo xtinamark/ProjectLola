@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters: 
-    - file:  file_to_be_added_to_toc.md
+    - file:  Why_Choose_4TU.md
       sections: 
       - file: some_content/text_and_code.ipynb
       sections:
