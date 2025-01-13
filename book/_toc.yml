@@ -4,9 +4,9 @@ root: intro.md
 parts:
   - caption: Contents
     chapters: 
-    - file:  4TU_Research_Data.md
+    - file:  A_Catalogue_of_Domestic_Accidents.md
       sections: 
-      - file: some_content/text_and_code.ipynb
+      - file: series.ipynb
       sections:
       - file: exercises/001.md
       - file: exercises/002.md
