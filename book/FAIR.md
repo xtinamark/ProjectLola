@@ -2,4 +2,4 @@
 
 FAIR text
 
-![image](../figures/Untitled diagram-2025-01-14-140433.png)
+![image](../figures/fair_flowchart.png)
