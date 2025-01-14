@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters: 
-    - file:  4TU_Research_.md
+    - file:  4TU_Research_Data.md
       sections:
       - file: FAIR.md
       - file: Features.md
