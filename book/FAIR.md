@@ -1,3 +1,3 @@
-# Heading
+# FAIR
 
 FAIR text
