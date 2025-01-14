@@ -5,15 +5,18 @@ parts:
   - caption: Contents
     chapters: 
     - file:  4TU_Research_Data.md
-      sections: 
-      - file: series.ipynb
       sections:
-      - file: exercises/001.md
-      - file: exercises/002.md
-      - file: exercises/003.md
-      - file: exercises/004.md
-      - file: exercises/005.md
-      - file: exercises/006.md
+      - file: FAIR.md
+      - file: Features.md
+      - file: Data_Types.md
+      - file: Formats_Supported.md
+      - file: Collection.md
+      - file: Curation.md
+      - file: Preservation.md
+      - file: Trust.md
+      - file: Cost.md
+      - file: Contribute.md
+      - file: Community.md
     - file: references.md
     - file: changelog.md
     - file: credits.md
